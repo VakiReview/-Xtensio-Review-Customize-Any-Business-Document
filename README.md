@@ -28,7 +28,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Design Professional Living Documents</strong></h5>
+  <h3 class="wp-block-heading"><strong>Design Professional Living Documents</strong></h3>
   
   
   
@@ -54,7 +54,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Seamless Collaboration</strong></h5>
+  <h3 class="wp-block-heading"><strong>Seamless Collaboration</strong></h3>
   
   
   
@@ -76,7 +76,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Preserve Your Brand Identity</strong></h5>
+  <h3 class="wp-block-heading"><strong>Preserve Your Brand Identity</strong></h3>
   
   
   
@@ -98,7 +98,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Track Engagement After Sharing</strong></h5>
+  <h3 class="wp-block-heading"><strong>Track Engagement After Sharing</strong></h3>
   
   
   
@@ -320,7 +320,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Pros:</strong></h5>
+  <h3 class="wp-block-heading"><strong>Pros:</strong></h3>
   
   
   
@@ -346,7 +346,7 @@
   
   
   
-  <h5 class="wp-block-heading"><strong>Cons:</strong></h5>
+  <h3 class="wp-block-heading"><strong>Cons:</strong></h3>
   
   
   
